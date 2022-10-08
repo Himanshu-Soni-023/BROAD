@@ -1,36 +1,37 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "A New World Of Cooling",
+    "paragraph": "Only provide products and services beneficial to the earth and humanity"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": " ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "BROAD U.S.A. is a privately held company headquartered in New Jersey, with sales and service operations to support our customers throughout North America. BROAD Absorption Chillers are currently operating successfully in over 80 counties with over 35,000 systems deployed worldwide. Relying on our innovative and environmental-friendly technology, BROAD U.S.A commits itself to optimize energy efficiency for clients in Commercial, Civil and Industrial markets.",
+      "Broad U.S.A. has service and support teams in our east and west coast locations, with service engineering and component inventory for rapid service to our customers."
+
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      
+     
+      "Broad U.S.A. also encourages and supports the education of both operators and service contractors on your equipment by offering regional training courses on a semi-annual basis as well as yearly factory training in our headquarters.",
+      "Broad U.S.A. is committed to the inherent value and flexible solutions that thermally driven absorption plays in our modern world. Absorption design is our core competency and primary focus. Unlike many current players in the absorption market, Broad designed and created its first Absorption Chiller in 1988 with its own human capital and innovation, hard work, and the continuous drive to be the best."
+     
+      
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Chiller Name",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Chiller Name",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Chiller Name",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
@@ -67,46 +68,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-globe",
+      "name": "Environment",
+      "text": "For the environment, everything we do is from the perspective of sustainability"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-users",
+      "name": "Humanity",
+      "text": "For humanity, sustainability is wired into the DNA of the full spectrum of BROAD’s diverse"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-user",
+      "name": "Our Customers",
+      "text": "For our customers, we aim to be an enterprise one is proud to do business with"
     }
-  ],
+    
+  ],  
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Broad bid and was the selected as the low cost high quality supplier for this portion of the job”.  They performed smoothly and eliminated a lot of coordination issues that would have undoubtedly arisen with out there expertise and familiarity with what is required to join the chiller.",
+      "name":"Dave Cilona • CBCP- Construction Manager"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "As a contractor my business model is to reduce risk.  For me the economics and benefits of allowing the manufacture to assume this responsibility was the right decision for J&J and my customers.",
+      "name": "George Youssef • Principle J&J Mechanical"
     },
     {
       "img": "img/testimonials/03.jpg",

@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Every day, BROAD U.S.A.  aims to demonstrate our loyalty to our customers, fairness to our vendors, and dedication to our employees.  Long term relationships are more important than gains or losses.
           </p>
         </div>
         <div className='row'>
