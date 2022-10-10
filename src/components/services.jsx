@@ -3,7 +3,7 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Our Core Value</h2>
           <p>
           Every day, BROAD U.S.A.  aims to demonstrate our loyalty to our customers, fairness to our vendors, and dedication to our employees.  Long term relationships are more important than gains or losses.
           </p>

@@ -21,42 +21,42 @@
   },
   "Gallery": [
     {
-      "title": "Chiller Name",
+      "title": "MGM National Harbor",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Chiller Name",
+      "title": "Central Valley Water Reclamation Facility",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Chiller Name",
+      "title": "Whole Foods Stores(NY)",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "University of California San Diege(UCSD)",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "University of Minnesto",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Rugters University",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "John Wayne Airport",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "New Starwood resort",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
@@ -97,75 +97,60 @@
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Lorem ipsum dolor sit amet, huhr32u 3gry32gri32 3 3urg32uwebfek bebwfe kbefbuk FIU3   FKWH uef ui uiuW WU U consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at. hjvqr3u 12dg1yug2yu cyu32r32r gr32gr7gcgcrg3287rv32  \"",
       "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
+    } 
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
       "name": "John Doe",
-      "job": "Director"
+      "job": "Job Title: HVAC Engineers (Hackensack, NJ)   Job duties: Install/inspect/analyze large chillers/HVAC system Service/diagnose/analyze/repair products/system with experience in chiller & CCHP, HVAC, green energy technology. BS+2 yrs, or AS+5 yrs experience. Email: Broad U.S.A. Inc. at"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Job & Career",
+      "job": "Buildings account for most electricity consumed in the world today, with air conditioning systems within buildings accounting for over 30% of total consumption1. Compared to conventional electric air conditioning, natural gas thermal absorption technology, also"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "White Paper on Waste Water Treatment Cooling Apllication",
+      "job": "There are mandatory needs and methods informed to reduce thermal impacts from municipal wastewater treatment plant discharges to surface water. The goal set for the reduction in effluent temperature from the Waste Water Treatment Plants"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Absorption Technology",
+      "job": "Buildings account for most electricity consumed in the world today, with air conditioning systems within buildings accounting for over 30% of total consumption1. Compared to conventional electric air conditioning, natural gas thermal absorption technology, also"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": " California locations \n100 North Citrus Street, Suite 625 \nWest Covina, CA 91791",
+    "phone": "(626)967-8651 / (626)967-8654",
+    "email": "info@broadusa.com",
+    "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbroadusa.com%2Fbroad",
+    "twitter": "http://twitter.com/intent/tweet?text=Home&url=https%3A%2F%2Fbroadusa.com%2Fbroad",
+    "youtube": "https://www.youtube.com/channel/UC_C7uAOAH9RMzZs-CKCZ62w"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "img/feature/01.jpg",
+      "title": "NON-ELECTRIC CHILLER",
+      "text": "Bulding central A/C system and domestic hot water, providing cooling with fuel saves 4-times energy converions."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "img/feature/02.jpg",
+      "title": "ABSORPTION HEAT PUMPS",
+      "text": "Pumping heat from lower temperature to medium temperature using high grade energy. It is variation of single stage absorptions"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "img/feature/03.jpg",
+      "title": "BROAD CCHP SYSTEM",
+      "text": "Achieves zero emmision with exhaust heat as power source - the CHP system powered by exhaust heat from generator"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "img/feature/04.jpg",
+      "title": "POWER EFFICIENT CHILLERS",
+      "text": "Cooling capacity ranging from 150 ton to 2000 ton, high COP(6.5) and excellent IPLV(maximum 13.26)"
     }
   ]
 }

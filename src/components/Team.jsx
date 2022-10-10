@@ -3,10 +3,9 @@ export const Team = (props) => {
     <div id='team' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
-          <h2>Meet the Team</h2>
+          <h2>Latest News</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          For Humanity’s Future BROAD’s Unique Building Energy Conservation Technology Protects the Earth BROAD’s Unique Clean Air Technology Protects Mankind.
           </p>
         </div>
         <div id='row'>
